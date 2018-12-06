@@ -15,7 +15,7 @@ app.use('/employees', employee);
 
 // now for the database...
 // get the url from mLab with sandbox
-let dbUrl = 'mongodb://sundayokpokor:jade9801@ds035816.mlab.com:35816/employee';
+let dbUrl = 'mongodb://test:testemployee1@ds035816.mlab.com:35816/employee';
 // decide the database to use
 let mongoDB = process.env.MONGODB_URL || dbUrl;
 // connect to db and set promise
