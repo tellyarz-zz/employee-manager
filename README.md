@@ -1,5 +1,5 @@
 # employee-manager
-a brief RESTApi example with nodejs + express + monogdb
+a brief RESTApi example with nodejs + express + mongodb
 
 ## what you need
 * install express
