@@ -1,0 +1,29 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "description": "a brief example with nodejs + express + monogdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tellyarz/employee-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express"
+  ],
+  "author": "Jade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tellyarz/employee-manager/issues"
+  },
+  "homepage": "https://github.com/tellyarz/employee-manager#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15"
+  }
+}
